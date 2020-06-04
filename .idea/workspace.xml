@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f2b07eb-c63b-49f0-9894-310b4a1243f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ciYypNFscYwZwvFgQnSGMs78se" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ITI\PyShop\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f2b07eb-c63b-49f0-9894-310b4a1243f3" name="Default Changelist" comment="" />
+      <created>1591013137418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591013137418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="33" width="812" height="727" key="#Intentions" timestamp="1591120949092">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="305" y="33" width="812" height="727" key="#Intentions/0.0.1422.760@0.0.1422.760" timestamp="1591120949092" />
+    <state x="168" y="175" width="1086" height="549" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591045719772">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="168" y="175" width="1086" height="549" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.760@0.0.1422.760" timestamp="1591045719772" />
+    <state x="473" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591101834373">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="473" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1422.760@0.0.1422.760" timestamp="1591101834373" />
+    <state x="472" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591098530247">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="472" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1422.760@0.0.1422.760" timestamp="1591098530247" />
+    <state x="368" y="0" key="CommitChangelistDialog2" timestamp="1591141575480">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="368" y="0" key="CommitChangelistDialog2/0.0.1422.760@0.0.1422.760" timestamp="1591141575480" />
+    <state x="94" y="94" width="1235" height="572" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591098670818">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="94" y="94" width="1235" height="572" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1422.760@0.0.1422.760" timestamp="1591098670818" />
+    <state x="305" y="40" key="scopes" timestamp="1591098479357">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="305" y="40" key="scopes/0.0.1422.760@0.0.1422.760" timestamp="1591098479357" />
+  </component>
+</project>
