@@ -19,5 +19,6 @@ import products
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^products/', include('products.urls'))
+    url(r'^products/', include('products.urls')),
+    url(r'^projects/', include('projects.urls'))
 ]
